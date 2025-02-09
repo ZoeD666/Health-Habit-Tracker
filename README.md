@@ -10,13 +10,16 @@ Programming Language: Python
 Key Libraries:
 
 Tkinter (GUI Development)
+
 pandas (Data Handling)
+
 matplotlib (Data Visualization)
 
 
 Data Source
 
 The nutritional data used in this project was sourced from the USDA FoodData Central database:
+
 https://fdc.nal.usda.gov/download-datasets.html
 
 The datasets used include:
@@ -76,19 +79,19 @@ Developed and tested the program using PyCharm Community Edition.
 
 File Structure
 
-├── README.md                         # Project documentation
+├── README.md                          # Project documentation
 
-├── project-Health habits tracker.py  # Python code for the tracker
+├── project-Health habits tracker.py   # Python code for the tracker
 
-├── FOOD_DES.csv                      # Food description dataset
+├── FOOD_DES.csv                       # Food description dataset
 
-├── NUT_DATA.csv                      # Nutritional data
+├── NUT_DATA.csv                       # Nutritional data
 
-├── NUTR_DEF.csv                      # Nutrient definitions
+├── NUTR_DEF.csv                       # Nutrient definitions
 
-├── LANGDESC.csv                      # Language descriptions
+├── LANGDESC.csv                       # Language descriptions
 
-├── LANGUAL.csv                       # Food category data
+├── LANGUAL.csv                        # Food category data
 
-├── USDA-sr28.accdb                   # USDA Access database
+├── USDA-sr28.accdb                    # USDA Access database
 
